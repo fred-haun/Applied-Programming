@@ -1,0 +1,30 @@
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\bin\Debug\net7.0\Learning02.exe
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\bin\Debug\net7.0\Learning02.deps.json
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\bin\Debug\net7.0\Learning02.runtimeconfig.json
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\bin\Debug\net7.0\Learning02.dll
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\bin\Debug\net7.0\Learning02.pdb
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.csproj.AssemblyReference.cache
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.GeneratedMSBuildEditorConfig.editorconfig
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.AssemblyInfoInputs.cache
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.AssemblyInfo.cs
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.csproj.CoreCompileInputs.cache
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.dll
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\refint\Learning02.dll
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.pdb
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\Learning02.genruntimeconfig.cache
+C:\BYUI_Winter_2023\Programming With Classes\ProgrammingWithClasses2023\prepare\Learning02\obj\Debug\net7.0\ref\Learning02.dll
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.csproj.AssemblyReference.cache
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.GeneratedMSBuildEditorConfig.editorconfig
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.AssemblyInfoInputs.cache
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.AssemblyInfo.cs
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.csproj.CoreCompileInputs.cache
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.dll
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\refint\connect4.dll
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.pdb
+c:\BYUI Winter 2024\Applied Programming\week5\bin\Debug\net7.0\connect4.exe
+c:\BYUI Winter 2024\Applied Programming\week5\bin\Debug\net7.0\connect4.deps.json
+c:\BYUI Winter 2024\Applied Programming\week5\bin\Debug\net7.0\connect4.runtimeconfig.json
+c:\BYUI Winter 2024\Applied Programming\week5\bin\Debug\net7.0\connect4.dll
+c:\BYUI Winter 2024\Applied Programming\week5\bin\Debug\net7.0\connect4.pdb
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\connect4.genruntimeconfig.cache
+c:\BYUI Winter 2024\Applied Programming\week5\obj\Debug\net7.0\ref\connect4.dll
